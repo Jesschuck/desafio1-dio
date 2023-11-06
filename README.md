@@ -1,4 +1,4 @@
-Desafio do Bootcamp da Dio - Potência Tech iFood - Programação do Zero
+Esse é um desafio do Bootcamp da Dio - Potência Tech iFood - Programação do Zero
 
 # 1️⃣ Desafio Classificador de nível de Herói
 
